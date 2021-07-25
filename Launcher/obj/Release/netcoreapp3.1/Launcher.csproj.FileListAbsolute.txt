@@ -7,7 +7,6 @@ D:\Documents\Repos\Launcher\Launcher\bin\Release\netcoreapp3.1\Launcher.pdb
 D:\Documents\Repos\Launcher\Launcher\obj\Release\netcoreapp3.1\Launcher.csproj.AssemblyReference.cache
 D:\Documents\Repos\Launcher\Launcher\obj\Release\netcoreapp3.1\Launcher.Form2.resources
 D:\Documents\Repos\Launcher\Launcher\obj\Release\netcoreapp3.1\Launcher.FormLauncher.resources
-D:\Documents\Repos\Launcher\Launcher\obj\Release\netcoreapp3.1\Launcher.MainForm.resources
 D:\Documents\Repos\Launcher\Launcher\obj\Release\netcoreapp3.1\Launcher.Properties.Resources.resources
 D:\Documents\Repos\Launcher\Launcher\obj\Release\netcoreapp3.1\Launcher.csproj.GenerateResource.cache
 D:\Documents\Repos\Launcher\Launcher\obj\Release\netcoreapp3.1\Launcher.AssemblyInfoInputs.cache
@@ -16,3 +15,4 @@ D:\Documents\Repos\Launcher\Launcher\obj\Release\netcoreapp3.1\Launcher.csproj.C
 D:\Documents\Repos\Launcher\Launcher\obj\Release\netcoreapp3.1\Launcher.dll
 D:\Documents\Repos\Launcher\Launcher\obj\Release\netcoreapp3.1\Launcher.pdb
 D:\Documents\Repos\Launcher\Launcher\obj\Release\netcoreapp3.1\Launcher.genruntimeconfig.cache
+D:\Documents\Repos\Launcher\Launcher\obj\Release\netcoreapp3.1\Launcher.FormMain.resources

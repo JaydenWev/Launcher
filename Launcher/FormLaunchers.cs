@@ -9,9 +9,9 @@ using System.Diagnostics;
 
 namespace Launcher
 {
-    public partial class FormLauncher : Form
+    public partial class FormLaunchers : Form
     {
-        public FormLauncher()
+        public FormLaunchers()
         {
             InitializeComponent();
         }

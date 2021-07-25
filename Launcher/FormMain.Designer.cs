@@ -1,7 +1,7 @@
 ﻿
 namespace Launcher
 {
-    partial class MainForm
+    partial class FormMain
     {
         /// <summary>
         ///  Required designer variable.

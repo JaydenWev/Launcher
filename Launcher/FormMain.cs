@@ -12,9 +12,9 @@ using System.Diagnostics;
 
 namespace Launcher
 {
-    public partial class MainForm : Form
+    public partial class FormMain : Form
     {
-        public MainForm() // Constructor
+        public FormMain() // Constructor
         {
             InitializeComponent();
             customizeDesign();
@@ -150,10 +150,10 @@ namespace Launcher
 
         private void btnLauncher_Click(object sender, EventArgs e)
         {
-            if (activeForm == new FormLauncher())
+            if (activeForm == new FormLaunchers())
                 activeForm.Close();
             else
-                openChildForm(new FormLauncher());
+                openChildForm(new FormLaunchers());
         }
 
         private void button3_Click(object sender, EventArgs e)

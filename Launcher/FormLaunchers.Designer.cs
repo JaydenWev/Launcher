@@ -1,7 +1,7 @@
 ﻿
 namespace Launcher
 {
-    partial class FormLauncher
+    partial class FormLaunchers
     {
         /// <summary>
         /// Required designer variable.
