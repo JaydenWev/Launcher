@@ -1,0 +1,3 @@
+D:\Documents\Repos\Launcher\Launcher.Installer\bin\Release\cab1.cab
+D:\Documents\Repos\Launcher\Launcher.Installer\bin\Release\Launcher.Installer.msi
+D:\Documents\Repos\Launcher\Launcher.Installer\bin\Release\Launcher.Installer.wixpdb

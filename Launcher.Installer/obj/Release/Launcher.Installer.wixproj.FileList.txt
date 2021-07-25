@@ -1,0 +1,7 @@
+D:\Documents\Repos\Launcher\Launcher.Installer\bin\Release\cab1.cab
+D:\Documents\Repos\Launcher\Launcher.Installer\bin\Release\Launcher.Installer.msi
+D:\Documents\Repos\Launcher\Launcher.Installer\bin\Release\Launcher.Installer.wixpdb
+obj\Release\Product.wixobj
+obj\Release\Launcher.Installer.wixproj.BindContentsFileListnull.txt
+obj\Release\Launcher.Installer.wixproj.BindOutputsFileListnull.txt
+obj\Release\Launcher.Installer.wixproj.BindBuiltOutputsFileListnull.txt
